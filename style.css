@@ -1,35 +1,29 @@
-*{
-  font-family: helvetica;
+.title{
+  background: url("http://www.twitrcovers.com/wp-content/uploads/2015/04/bird-owl-wires-l.jpg") no-repeat center top;
+  
 }
 
-.header{
-  font-size: 100px;
-  font-weight: bold;
-  color: Khaki;
-  margin: auto;
-  text-align: center;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
+body{
+  font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+  background: url("http://images.all-free-download.com/images/graphiclarge/grain_wood_background_hd_picture_1_169610.jpg") no-repeat fixed;
+  background-size: cover;
 }
 
-h2{
-  font-size: 32px;
-  font-weight: bold;
-  color: white;
+.lw{ 
+  padding: 40px;
+  font-size: 60px;
+  padding-bottom: 5px;
+  margin:  1px;
+  text-align: right;
+  color: #496d91;
+  text-transform: uppercase;
+ 
 }
 
-.brushes{
-  background-color: mediumspringgreen;
-}
-
-.frames{
-  background-color: lightcoral;
-}
-
-.paint{
-  background-color: skyblue;
-}
-
-.price{
-  font-weight: bold;
-  color: blue;
+.subhead{
+  padding: 40px;
+  margin-top: 1px;
+  padding-top: 5px;
+  text-align: right;
+  color: #F0F8FF;
 }
